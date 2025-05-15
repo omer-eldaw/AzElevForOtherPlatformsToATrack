@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzElevForOtherPlatformsToATrack", "Az&ElevForOtherPlatformsToATrack\AzElevForOtherPlatformsToATrack.csproj", "{8CEE969C-D414-4CF5-BEA6-617B68E4C0CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CEE969C-D414-4CF5-BEA6-617B68E4C0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CEE969C-D414-4CF5-BEA6-617B68E4C0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CEE969C-D414-4CF5-BEA6-617B68E4C0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CEE969C-D414-4CF5-BEA6-617B68E4C0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AA8B4A8-1FEC-44E4-8DEF-4C50040BFE5A}
+	EndGlobalSection
+EndGlobal
